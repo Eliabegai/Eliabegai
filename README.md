@@ -19,9 +19,14 @@
  <br>
  
 <div> 
-   <a href="https://instagram.com/eliabegai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eliabegai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-  <a href="https://www.linkedin.com/in/eliabe-gai-ab9a51203" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/eliabegai" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:eliabegai@gmail.com" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/eliabe-gai-ab9a51203" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
  
   ![Snake animation](https://github.com/Eliabegai/Eliabegai/blob/output/github-contribution-grid-snake.svg)
 
