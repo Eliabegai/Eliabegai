@@ -1,6 +1,22 @@
-# Olá, eu sou o Eliabe Gai! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Eliabe+Gai!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Criando+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Especialista+Web%2C+Mobile+%26+DevOps" alt="Typing Animation" />
+</div>
 
-Seja bem-vindo ao meu perfil do GitHub. Sou um **Desenvolvedor Full Stack** focado em construir aplicações web e mobile modernas, robustas e escaláveis. Gosto de resolver problemas complexos de negócios usando tecnologia e automação.
+<div align="center">
+  <a href="https://www.linkedin.com/in/eliabe-gai-ab9a51203" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/5547992082307" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:eliabegai@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/eliabegai" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
 
 ---
 
@@ -77,25 +93,4 @@ Nem só de linhas de código vive um dev! Quando estou offline, você provavelme
 <div align="center">
   <h3>Minhas Contribuições em 3D</h3>
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=Eliabegai&theme=monoka" alt="Gráfico de Contribuições 3D" />
-</div>
-
----
-
-## 📫 Vamos nos conectar?
-
-Seja para conversar sobre tecnologia, oportunidades de projetos ou engenharia de som, fique à vontade para entrar em contato:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eliabe-gai-ab9a51203" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://wa.me/+5547992082307" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:eliabegai@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://instagram.com/eliabegai" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
 </div>
